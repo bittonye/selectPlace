@@ -1,0 +1,2482 @@
+[
+   {
+      "name":"Be’er Toviyya",
+      "distance":"5.7 km"
+   },
+   {
+      "name":"Zohar",
+      "distance":"18 km"
+   },
+   {
+      "name":"Ziqim",
+      "distance":"22 km"
+   },
+   {
+      "name":"‘Iyyé Zeta",
+      "distance":"20 km"
+   },
+   {
+      "name":"Zeraẖya",
+      "distance":"11 km"
+   },
+   {
+      "name":"Zemorot",
+      "distance":"3.7 km"
+   },
+   {
+      "name":"Misgav Dov",
+      "distance":"11 km"
+   },
+   {
+      "name":"Zavdi’él",
+      "distance":"14 km"
+   },
+   {
+      "name":"Yinnon",
+      "distance":"11 km"
+   },
+   {
+      "name":"Yesodot",
+      "distance":"21 km"
+   },
+   {
+      "name":"Yaẕiẕ",
+      "distance":"23 km"
+   },
+   {
+      "name":"H̱olot Yavné",
+      "distance":"17 km"
+   },
+   {
+      "name":"Yavné",
+      "distance":"16 km"
+   },
+   {
+      "name":"Yad Natan",
+      "distance":"12 km"
+   },
+   {
+      "name":"Yad Mordekhay",
+      "distance":"21 km"
+   },
+   {
+      "name":"Yad Eli‘ezer",
+      "distance":"25 km"
+   },
+   {
+      "name":"Yad Binyamin",
+      "distance":"16 km"
+   },
+   {
+      "name":"‘Uza",
+      "distance":"20 km"
+   },
+   {
+      "name":"Tirosh",
+      "distance":"21 km"
+   },
+   {
+      "name":"Tirat Shalom",
+      "distance":"22 km"
+   },
+   {
+      "name":"Timmorim",
+      "distance":"9.8 km"
+   },
+   {
+      "name":"Telamim",
+      "distance":"21 km"
+   },
+   {
+      "name":"Tal Shaẖar",
+      "distance":"23 km"
+   },
+   {
+      "name":"Talmé Yeẖi’él",
+      "distance":"9.2 km"
+   },
+   {
+      "name":"Talmé Yafe",
+      "distance":"16 km"
+   },
+   {
+      "name":"Sumsum",
+      "distance":"22 km"
+   },
+   {
+      "name":"Ṣummeil",
+      "distance":"16 km"
+   },
+   {
+      "name":"Sitriyya",
+      "distance":"24 km"
+   },
+   {
+      "name":"‘Iyyé Sidim",
+      "distance":"12 km"
+   },
+   {
+      "name":"Shetulim",
+      "distance":"3.1 km"
+   },
+   {
+      "name":"Shedema",
+      "distance":"12 km"
+   },
+   {
+      "name":"Shalwa",
+      "distance":"23 km"
+   },
+   {
+      "name":"Shahma",
+      "distance":"17 km"
+   },
+   {
+      "name":"Shaẖariyya",
+      "distance":"22 km"
+   },
+   {
+      "name":"Shaẖar",
+      "distance":"16 km"
+   },
+   {
+      "name":"Shafir",
+      "distance":"8.4 km"
+   },
+   {
+      "name":"Sha‘are Avraham",
+      "distance":"13 km"
+   },
+   {
+      "name":"Sha’anan",
+      "distance":"21 km"
+   },
+   {
+      "name":"Segula",
+      "distance":"14 km"
+   },
+   {
+      "name":"Sedot Mikha",
+      "distance":"25 km"
+   },
+   {
+      "name":"Sde Yo‘av",
+      "distance":"12 km"
+   },
+   {
+      "name":"Sde ‘Uziyyahu",
+      "distance":"1.6 km"
+   },
+   {
+      "name":"Sde Moshe",
+      "distance":"20 km"
+   },
+   {
+      "name":"Sde Dawid",
+      "distance":"19 km"
+   },
+   {
+      "name":"Revaẖa",
+      "distance":"13 km"
+   },
+   {
+      "name":"Revadim",
+      "distance":"15 km"
+   },
+   {
+      "name":"Reẖovot",
+      "distance":"22 km"
+   },
+   {
+      "name":"Be’er Ra‘ama",
+      "distance":"23 km"
+   },
+   {
+      "name":"Ramot Me’ir",
+      "distance":"23 km"
+   },
+   {
+      "name":"Qomemiyyut",
+      "distance":"12 km"
+   },
+   {
+      "name":"Qiryat Mal’akhi",
+      "distance":"7.9 km"
+   },
+   {
+      "name":"Qiryat Gat",
+      "distance":"19 km"
+   },
+   {
+      "name":"Qidron",
+      "distance":"15 km"
+   },
+   {
+      "name":"Qevuẕat Yavne",
+      "distance":"9.0 km"
+   },
+   {
+      "name":"‘Iyyé Qeratya",
+      "distance":"14 km"
+   },
+   {
+      "name":"Qedma",
+      "distance":"12 km"
+   },
+   {
+      "name":"Qazāza",
+      "distance":"20 km"
+   },
+   {
+      "name":"Tel Poran",
+      "distance":"7.0 km"
+   },
+   {
+      "name":"Petaẖya",
+      "distance":"25 km"
+   },
+   {
+      "name":"Pelugot",
+      "distance":"16 km"
+   },
+   {
+      "name":"Pedaya",
+      "distance":"24 km"
+   },
+   {
+      "name":"Palmaẖim",
+      "distance":"21 km"
+   },
+   {
+      "name":"Orot",
+      "distance":"6.6 km"
+   },
+   {
+      "name":"Or HaNer",
+      "distance":"23 km"
+   },
+   {
+      "name":"Nogah",
+      "distance":"15 km"
+   },
+   {
+      "name":"No‘am",
+      "distance":"24 km"
+   },
+   {
+      "name":"Niẕẕanim",
+      "distance":"4.8 km"
+   },
+   {
+      "name":"Niva",
+      "distance":"18 km"
+   },
+   {
+      "name":"Nir Yisra’el",
+      "distance":"7.5 km"
+   },
+   {
+      "name":"Nir H̱en",
+      "distance":"17 km"
+   },
+   {
+      "name":"Nir Gallim",
+      "distance":"8.6 km"
+   },
+   {
+      "name":"Nir Banim",
+      "distance":"13 km"
+   },
+   {
+      "name":"Ni‘ilya",
+      "distance":"17 km"
+   },
+   {
+      "name":"Neẕer Sereni",
+      "distance":"25 km"
+   },
+   {
+      "name":"Neve Mivtaẖ",
+      "distance":"9.3 km"
+   },
+   {
+      "name":"Neta‘im",
+      "distance":"25 km"
+   },
+   {
+      "name":"Ness Ziona",
+      "distance":"24 km"
+   },
+   {
+      "name":"‘Iyyé Neshiyya",
+      "distance":"21 km"
+   },
+   {
+      "name":"Nehora",
+      "distance":"15 km"
+   },
+   {
+      "name":"Negba",
+      "distance":"9.9 km"
+   },
+   {
+      "name":"Ne‘āne",
+      "distance":"23 km"
+   },
+   {
+      "name":"Naẖala",
+      "distance":"16 km"
+   },
+   {
+      "name":"Na‘an",
+      "distance":"24 km"
+   },
+   {
+      "name":"Mivhor",
+      "distance":"18 km"
+   },
+   {
+      "name":"Mishmar Dawid",
+      "distance":"24 km"
+   },
+   {
+      "name":"Meẕudat Yo’av",
+      "distance":"12 km"
+   },
+   {
+      "name":"Meshar",
+      "distance":"11 km"
+   },
+   {
+      "name":"Menuẖa",
+      "distance":"15 km"
+   },
+   {
+      "name":"Mazkeret Batya",
+      "distance":"21 km"
+   },
+   {
+      "name":"Mavqi‘im",
+      "distance":"17 km"
+   },
+   {
+      "name":"Massu’ot Yiẕẖaq",
+      "distance":"5.8 km"
+   },
+   {
+      "name":"Massu’a",
+      "distance":"24 km"
+   },
+   {
+      "name":"Mashmia‘ Shalom",
+      "distance":"12 km"
+   },
+   {
+      "name":"Mash‘én",
+      "distance":"12 km"
+   },
+   {
+      "name":"Luzit",
+      "distance":"22 km"
+   },
+   {
+      "name":"Kokhav",
+      "distance":"13 km"
+   },
+   {
+      "name":"Kefar Warburg",
+      "distance":"6.5 km"
+   },
+   {
+      "name":"Kefar Mordekhay",
+      "distance":"13 km"
+   },
+   {
+      "name":"Kefar Menaẖem",
+      "distance":"17 km"
+   },
+   {
+      "name":"Kefar Marmorek",
+      "distance":"20 km"
+   },
+   {
+      "name":"Kefar HaRif",
+      "distance":"12 km"
+   },
+   {
+      "name":"Niẕẕan",
+      "distance":"3.8 km"
+   },
+   {
+      "name":"Kefar HaNagid",
+      "distance":"18 km"
+   },
+   {
+      "name":"Kefar Gevirol",
+      "distance":"20 km"
+   },
+   {
+      "name":"Qiryat ‘Eqron",
+      "distance":"20 km"
+   },
+   {
+      "name":"Kefar Bilu",
+      "distance":"21 km"
+   },
+   {
+      "name":"Kefar Aviv",
+      "distance":"11 km"
+   },
+   {
+      "name":"Kefar Aẖim",
+      "distance":"8.6 km"
+   },
+   {
+      "name":"Kefar Aharon",
+      "distance":"22 km"
+   },
+   {
+      "name":"Karmon",
+      "distance":"7.5 km"
+   },
+   {
+      "name":"Karmiyya",
+      "distance":"21 km"
+   },
+   {
+      "name":"Kannot",
+      "distance":"10.0 km"
+   },
+   {
+      "name":"Julis",
+      "distance":"7.6 km"
+   },
+   {
+      "name":"Ibbim",
+      "distance":"25 km"
+   },
+   {
+      "name":"H̱ulda",
+      "distance":"23 km"
+   },
+   {
+      "name":"Hodiyya",
+      "distance":"9.0 km"
+   },
+   {
+      "name":"H̱avaẕẕelet",
+      "distance":"20 km"
+   },
+   {
+      "name":"‘Iyyé H̱atta",
+      "distance":"13 km"
+   },
+   {
+      "name":"H̱aruvit",
+      "distance":"18 km"
+   },
+   {
+      "name":"Giv‘ati",
+      "distance":"2.3 km"
+   },
+   {
+      "name":"Giv‘at Brenner",
+      "distance":"19 km"
+   },
+   {
+      "name":"Gevar‘am",
+      "distance":"19 km"
+   },
+   {
+      "name":"Be’er Geluma",
+      "distance":"24 km"
+   },
+   {
+      "name":"Gefen",
+      "distance":"21 km"
+   },
+   {
+      "name":"Gedera",
+      "distance":"13 km"
+   },
+   {
+      "name":"Ge’alya",
+      "distance":"18 km"
+   },
+   {
+      "name":"Ge’a",
+      "distance":"15 km"
+   },
+   {
+      "name":"Gat",
+      "distance":"19 km"
+   },
+   {
+      "name":"Gan Yavne",
+      "distance":"5.7 km"
+   },
+   {
+      "name":"Gan Soréq",
+      "distance":"24 km"
+   },
+   {
+      "name":"Gan Shelomo",
+      "distance":"20 km"
+   },
+   {
+      "name":"Ganné Yoẖanan",
+      "distance":"20 km"
+   },
+   {
+      "name":"Gan HaDarom",
+      "distance":"6.8 km"
+   },
+   {
+      "name":"Gal’on",
+      "distance":"22 km"
+   },
+   {
+      "name":"Even Shemu’el",
+      "distance":"22 km"
+   },
+   {
+      "name":"Eshkolot",
+      "distance":"4.4 km"
+   },
+   {
+      "name":"‘En Ẕurim",
+      "distance":"8.0 km"
+   },
+   {
+      "name":"Emunim",
+      "distance":"1069 m"
+   },
+   {
+      "name":"Deganim",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"Burqā",
+      "distance":"4.9 km"
+   },
+   {
+      "name":"Bureir",
+      "distance":"21 km"
+   },
+   {
+      "name":"Biẕẕaron",
+      "distance":"7.7 km"
+   },
+   {
+      "name":"Bet Shiqma",
+      "distance":"14 km"
+   },
+   {
+      "name":"Bet Rabban",
+      "distance":"9.6 km"
+   },
+   {
+      "name":"Bet ‘Ovéd",
+      "distance":"22 km"
+   },
+   {
+      "name":"Bet Nir",
+      "distance":"23 km"
+   },
+   {
+      "name":"Bet H̱ilqiyya",
+      "distance":"15 km"
+   },
+   {
+      "name":"Bet H̱anan",
+      "distance":"23 km"
+   },
+   {
+      "name":"Bet Gamli’él",
+      "distance":"15 km"
+   },
+   {
+      "name":"Bet ‘Ezra",
+      "distance":"1.9 km"
+   },
+   {
+      "name":"Bet El‘azari",
+      "distance":"17 km"
+   },
+   {
+      "name":"Berurim",
+      "distance":"11 km"
+   },
+   {
+      "name":"Beror H̱ayil",
+      "distance":"22 km"
+   },
+   {
+      "name":"Tel Beror",
+      "distance":"21 km"
+   },
+   {
+      "name":"Beror",
+      "distance":"23 km"
+   },
+   {
+      "name":"Berekhya",
+      "distance":"9.9 km"
+   },
+   {
+      "name":"Ben Zakkay",
+      "distance":"14 km"
+   },
+   {
+      "name":"Bene Re’ém",
+      "distance":"12 km"
+   },
+   {
+      "name":"Bené Darom",
+      "distance":"8.2 km"
+   },
+   {
+      "name":"Benaya",
+      "distance":"14 km"
+   },
+   {
+      "name":"‘Azriqam",
+      "distance":"3.1 km"
+   },
+   {
+      "name":"‘Ayanot",
+      "distance":"21 km"
+   },
+   {
+      "name":"Avigedor",
+      "distance":"8.6 km"
+   },
+   {
+      "name":"Ashkelon",
+      "distance":"13 km"
+   },
+   {
+      "name":"H̱olot Ashdod",
+      "distance":"2.8 km"
+   },
+   {
+      "name":"Ashdod",
+      "distance":"0.0 m"
+   },
+   {
+      "name":"Ashdod",
+      "distance":"5.0 km"
+   },
+   {
+      "name":"‘Aseret",
+      "distance":"12 km"
+   },
+   {
+      "name":"‘Arugot",
+      "distance":"10.0 km"
+   },
+   {
+      "name":"H̱orbat ‘Aqod",
+      "distance":"24 km"
+   },
+   {
+      "name":"Aẖuzzam",
+      "distance":"24 km"
+   },
+   {
+      "name":"‘Agur",
+      "distance":"24 km"
+   },
+   {
+      "name":"Afridar",
+      "distance":"13 km"
+   },
+   {
+      "name":"Wādī Suwaylim",
+      "distance":"24 km"
+   },
+   {
+      "name":"Abū Shūsha",
+      "distance":"25 km"
+   },
+   {
+      "name":"Tel H̱araz",
+      "distance":"14 km"
+   },
+   {
+      "name":"Kefar Silver",
+      "distance":"10.0 km"
+   },
+   {
+      "name":"Ẕofiyya",
+      "distance":"14 km"
+   },
+   {
+      "name":"Ẕomet Bilu",
+      "distance":"20 km"
+   },
+   {
+      "name":"Tel Maẖoz",
+      "distance":"21 km"
+   },
+   {
+      "name":"Tel Ya‘oz",
+      "distance":"23 km"
+   },
+   {
+      "name":"Dan Gardens Ashkelon Hotel",
+      "distance":"12 km"
+   },
+   {
+      "name":"Hafetz Hayim",
+      "distance":"14 km"
+   },
+   {
+      "name":"Yavne Mediumwave Transmitter, Mast East",
+      "distance":"20 km"
+   },
+   {
+      "name":"Ramla Mediumwave Transmitter",
+      "distance":"23 km"
+   },
+   {
+      "name":"Yavne Mediumwave Transmitter, Mast West",
+      "distance":"20 km"
+   },
+   {
+      "name":"H̱orbat Qarqar",
+      "distance":"25 km"
+   },
+   {
+      "name":"Ya‘ar HaMalakhim",
+      "distance":"23 km"
+   },
+   {
+      "name":"H̱orbat Shelaẖ",
+      "distance":"22 km"
+   },
+   {
+      "name":"H̱orbat Massara",
+      "distance":"25 km"
+   },
+   {
+      "name":"Ẕomet Lakhish",
+      "distance":"25 km"
+   },
+   {
+      "name":"H̱orbat Avi Zera‘",
+      "distance":"23 km"
+   },
+   {
+      "name":"H̱orbat Taẖash",
+      "distance":"23 km"
+   },
+   {
+      "name":"Giv‘at Divshi",
+      "distance":"21 km"
+   },
+   {
+      "name":"H̱orbat Soreqa",
+      "distance":"21 km"
+   },
+   {
+      "name":"‘En H̱afarpar",
+      "distance":"23 km"
+   },
+   {
+      "name":"H̱orbat H̱olef",
+      "distance":"24 km"
+   },
+   {
+      "name":"H̱orbat Burene",
+      "distance":"24 km"
+   },
+   {
+      "name":"H̱orbat Shumar",
+      "distance":"21 km"
+   },
+   {
+      "name":"H̱orbat Marshan",
+      "distance":"24 km"
+   },
+   {
+      "name":"Tell Maghārat Ghazza",
+      "distance":"24 km"
+   },
+   {
+      "name":"H̱orbat Qallim",
+      "distance":"23 km"
+   },
+   {
+      "name":"Shemurat Kurkar Gevar‘am",
+      "distance":"20 km"
+   },
+   {
+      "name":"Be’er Shalwa",
+      "distance":"23 km"
+   },
+   {
+      "name":"H̱orbat Polim",
+      "distance":"25 km"
+   },
+   {
+      "name":"Khirbat el H̱asaymīy-a",
+      "distance":"24 km"
+   },
+   {
+      "name":"H̱orbat Peẕaẕa",
+      "distance":"23 km"
+   },
+   {
+      "name":"H̱orbat ‘Emdan",
+      "distance":"20 km"
+   },
+   {
+      "name":"Be’er On",
+      "distance":"21 km"
+   },
+   {
+      "name":"H̱orbat ‘Arema",
+      "distance":"18 km"
+   },
+   {
+      "name":"H̱orbat Patot",
+      "distance":"21 km"
+   },
+   {
+      "name":"Ẕomet Pelugot",
+      "distance":"17 km"
+   },
+   {
+      "name":"Berekhat Shaẖar",
+      "distance":"16 km"
+   },
+   {
+      "name":"Ma’agar Zohar",
+      "distance":"17 km"
+   },
+   {
+      "name":"H̱orbat Bet Shim‘on",
+      "distance":"15 km"
+   },
+   {
+      "name":"Kefar Nefesh",
+      "distance":"15 km"
+   },
+   {
+      "name":"H̱orbat ‘Emmuda",
+      "distance":"18 km"
+   },
+   {
+      "name":"Ẕomet Ziqim",
+      "distance":"19 km"
+   },
+   {
+      "name":"Ẕomet Mordekhay",
+      "distance":"21 km"
+   },
+   {
+      "name":"Netiv Ha‘Asara",
+      "distance":"24 km"
+   },
+   {
+      "name":"H̱orbat Ma‘arava",
+      "distance":"22 km"
+   },
+   {
+      "name":"Shemurat Karmiyya",
+      "distance":"21 km"
+   },
+   {
+      "name":"Bat Hadar",
+      "distance":"14 km"
+   },
+   {
+      "name":"H̱orbat Shamma",
+      "distance":"13 km"
+   },
+   {
+      "name":"Ẕomet Berekhya",
+      "distance":"11 km"
+   },
+   {
+      "name":"Ẕomet Ashqelon",
+      "distance":"12 km"
+   },
+   {
+      "name":"Ẕomet Abba Hillel",
+      "distance":"9.9 km"
+   },
+   {
+      "name":"H̱orbat Min‘am",
+      "distance":"20 km"
+   },
+   {
+      "name":"Be’er Gefen",
+      "distance":"21 km"
+   },
+   {
+      "name":"H̱orbat Mokhes",
+      "distance":"7.8 km"
+   },
+   {
+      "name":"Ẕomet Hodiyya",
+      "distance":"7.6 km"
+   },
+   {
+      "name":"Ẕomet Giv‘ati",
+      "distance":"11 km"
+   },
+   {
+      "name":"Ẕomet Nehora",
+      "distance":"12 km"
+   },
+   {
+      "name":"Alumma",
+      "distance":"14 km"
+   },
+   {
+      "name":"Merkaz Shapira",
+      "distance":"7.0 km"
+   },
+   {
+      "name":"Ẕomet Mal’akhi",
+      "distance":"8.9 km"
+   },
+   {
+      "name":"Ẕomet Qomemiyyot",
+      "distance":"15 km"
+   },
+   {
+      "name":"H̱orbat Ba‘alan",
+      "distance":"20 km"
+   },
+   {
+      "name":"H̱orbat Ẕefiyya",
+      "distance":"19 km"
+   },
+   {
+      "name":"H̱orbat Lufit",
+      "distance":"17 km"
+   },
+   {
+      "name":"H̱orbat Dimdumit",
+      "distance":"18 km"
+   },
+   {
+      "name":"H̱orbat ‘Alum",
+      "distance":"20 km"
+   },
+   {
+      "name":"H̱orbat Shimra",
+      "distance":"19 km"
+   },
+   {
+      "name":"H̱orbat Tartar",
+      "distance":"13 km"
+   },
+   {
+      "name":"Istis",
+      "distance":"15 km"
+   },
+   {
+      "name":"Be’er Be‘alim",
+      "distance":"16 km"
+   },
+   {
+      "name":"Be’er Barqos",
+      "distance":"17 km"
+   },
+   {
+      "name":"Me‘arot Luzit",
+      "distance":"23 km"
+   },
+   {
+      "name":"Me‘arot Sayid",
+      "distance":"23 km"
+   },
+   {
+      "name":"Be’er Luzit",
+      "distance":"22 km"
+   },
+   {
+      "name":"H̱orbat Zikhri",
+      "distance":"22 km"
+   },
+   {
+      "name":"H̱orbat Boten",
+      "distance":"21 km"
+   },
+   {
+      "name":"H̱orbat ‘Atraba",
+      "distance":"22 km"
+   },
+   {
+      "name":"H̱orbat Ẕe‘ira",
+      "distance":"22 km"
+   },
+   {
+      "name":"H̱orbat Shaẖa",
+      "distance":"22 km"
+   },
+   {
+      "name":"Be’er Netel",
+      "distance":"22 km"
+   },
+   {
+      "name":"‘Enot H̱asi",
+      "distance":"24 km"
+   },
+   {
+      "name":"H̱orbat H̱assa",
+      "distance":"5.0 km"
+   },
+   {
+      "name":"Doẖan",
+      "distance":"3.7 km"
+   },
+   {
+      "name":"Ẕomet Eshkolot",
+      "distance":"4.1 km"
+   },
+   {
+      "name":"‘Ézer",
+      "distance":"1.6 km"
+   },
+   {
+      "name":"Ẕomet Aẖim",
+      "distance":"9.5 km"
+   },
+   {
+      "name":"Aẖawa",
+      "distance":"9.7 km"
+   },
+   {
+      "name":"Be’er Eznav",
+      "distance":"18 km"
+   },
+   {
+      "name":"Be’er Min‘am",
+      "distance":"20 km"
+   },
+   {
+      "name":"Ẕomet Re’ém",
+      "distance":"12 km"
+   },
+   {
+      "name":"Ẕomet ‘Ad Halom",
+      "distance":"2.1 km"
+   },
+   {
+      "name":"Namel Ashdod",
+      "distance":"8.9 km"
+   },
+   {
+      "name":"Ẕomet Nemal Ashdod",
+      "distance":"8.8 km"
+   },
+   {
+      "name":"Ẕomet Bené Darom",
+      "distance":"9.0 km"
+   },
+   {
+      "name":"Yeshivat Kerem Yavne",
+      "distance":"9.4 km"
+   },
+   {
+      "name":"Ẕomet Ben Zakkay",
+      "distance":"13 km"
+   },
+   {
+      "name":"Ẕomet Gedera",
+      "distance":"12 km"
+   },
+   {
+      "name":"H̱orbat H̱avra",
+      "distance":"15 km"
+   },
+   {
+      "name":"Kefar Eliyyahu",
+      "distance":"13 km"
+   },
+   {
+      "name":"Bet H̱olim Herẕfeld",
+      "distance":"13 km"
+   },
+   {
+      "name":"Ẕomet Yad Binyamin",
+      "distance":"18 km"
+   },
+   {
+      "name":"Naẖal Beror",
+      "distance":"22 km"
+   },
+   {
+      "name":"Naẖal Shaẖariyya",
+      "distance":"23 km"
+   },
+   {
+      "name":"Naẖal Hodiyya",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"Naẖal Hoga",
+      "distance":"23 km"
+   },
+   {
+      "name":"Naẖal Shalwa",
+      "distance":"18 km"
+   },
+   {
+      "name":"Naẖal Heleẕ",
+      "distance":"21 km"
+   },
+   {
+      "name":"Naẖal ‘Oved",
+      "distance":"22 km"
+   },
+   {
+      "name":"Naẖal ‘Uzrar",
+      "distance":"18 km"
+   },
+   {
+      "name":"Naẖal Dikhrin",
+      "distance":"16 km"
+   },
+   {
+      "name":"Naẖal Qomem",
+      "distance":"9.9 km"
+   },
+   {
+      "name":"Naẖal Deganim",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"Naẖal Ge’a",
+      "distance":"14 km"
+   },
+   {
+      "name":"Naẖal Yo’av",
+      "distance":"11 km"
+   },
+   {
+      "name":"Naẖal Barqos",
+      "distance":"14 km"
+   },
+   {
+      "name":"Naẖal H̱anuna",
+      "distance":"14 km"
+   },
+   {
+      "name":"Naẖal Rif",
+      "distance":"14 km"
+   },
+   {
+      "name":"Naẖal Barqay",
+      "distance":"3.9 km"
+   },
+   {
+      "name":"Naẖal ‘Anot",
+      "distance":"18 km"
+   },
+   {
+      "name":"Naẖal Miqne",
+      "distance":"16 km"
+   },
+   {
+      "name":"Naẖal Shaẖam",
+      "distance":"22 km"
+   },
+   {
+      "name":"Naẖal Luzit",
+      "distance":"20 km"
+   },
+   {
+      "name":"Naẖal HaShelosha",
+      "distance":"20 km"
+   },
+   {
+      "name":"Naẖal Gamli’el",
+      "distance":"15 km"
+   },
+   {
+      "name":"Naẖal ‘Eqron",
+      "distance":"15 km"
+   },
+   {
+      "name":"Gan Le’ummi Ashqelon",
+      "distance":"15 km"
+   },
+   {
+      "name":"Shemurat Shitta Malbina Ashdod",
+      "distance":"11 km"
+   },
+   {
+      "name":"Ẕomet Naẖshon",
+      "distance":"25 km"
+   },
+   {
+      "name":"Ẕomet H̱ulda",
+      "distance":"24 km"
+   },
+   {
+      "name":"Be’er Tirosh",
+      "distance":"23 km"
+   },
+   {
+      "name":"H̱orbat ‘Amarim",
+      "distance":"25 km"
+   },
+   {
+      "name":"H̱orbat Qimẖa",
+      "distance":"24 km"
+   },
+   {
+      "name":"Me‘arot Massu’a",
+      "distance":"24 km"
+   },
+   {
+      "name":"Qiryat Weizmann",
+      "distance":"23 km"
+   },
+   {
+      "name":"Makhon Weizmann",
+      "distance":"23 km"
+   },
+   {
+      "name":"Park Tamar",
+      "distance":"23 km"
+   },
+   {
+      "name":"Faqulta LaH̱aqliot",
+      "distance":"22 km"
+   },
+   {
+      "name":"Newé ‘Amit",
+      "distance":"22 km"
+   },
+   {
+      "name":"Giv‘at Mikhal",
+      "distance":"24 km"
+   },
+   {
+      "name":"Shemurat Yam Yavne",
+      "distance":"20 km"
+   },
+   {
+      "name":"Ẕomet Bet ‘Ovéd",
+      "distance":"22 km"
+   },
+   {
+      "name":"Shemurat Irus HaArgaman",
+      "distance":"22 km"
+   },
+   {
+      "name":"Sedé Soréq",
+      "distance":"22 km"
+   },
+   {
+      "name":"Taẖanat Na‘an",
+      "distance":"24 km"
+   },
+   {
+      "name":"Shemurat Ma‘anot Gibbeton",
+      "distance":"22 km"
+   },
+   {
+      "name":"Ganné Hadar",
+      "distance":"23 km"
+   },
+   {
+      "name":"Ẕomet Brenner",
+      "distance":"19 km"
+   },
+   {
+      "name":"Bet H̱olim Kaplan",
+      "distance":"20 km"
+   },
+   {
+      "name":"Qiryat Moshe",
+      "distance":"19 km"
+   },
+   {
+      "name":"Tel Shalaf",
+      "distance":"19 km"
+   },
+   {
+      "name":"Qever Rabban Gamli’el",
+      "distance":"15 km"
+   },
+   {
+      "name":"H̱orbat H̱umera",
+      "distance":"22 km"
+   },
+   {
+      "name":"Miẕpé Yona",
+      "distance":"7.4 km"
+   },
+   {
+      "name":"Shemurat Berekhat Zemorot",
+      "distance":"3.4 km"
+   },
+   {
+      "name":"Maẖane H̱evrat Lappidot",
+      "distance":"19 km"
+   },
+   {
+      "name":"Shekhunat Giv’at Ẕion",
+      "distance":"14 km"
+   },
+   {
+      "name":"Degem Qerav 1945",
+      "distance":"22 km"
+   },
+   {
+      "name":"Azor HaTa’asiya",
+      "distance":"17 km"
+   },
+   {
+      "name":"Shekhunat Shimshon",
+      "distance":"15 km"
+   },
+   {
+      "name":"Taẖanat Koaẖ",
+      "distance":"19 km"
+   },
+   {
+      "name":"Naẖal Soreq",
+      "distance":"15 km"
+   },
+   {
+      "name":"H̱orbat Mashar",
+      "distance":"18 km"
+   },
+   {
+      "name":"Be’er Lufit",
+      "distance":"17 km"
+   },
+   {
+      "name":"Be’er Istis",
+      "distance":"15 km"
+   },
+   {
+      "name":"Be’er Nizmit",
+      "distance":"14 km"
+   },
+   {
+      "name":"Be’er Naẖama",
+      "distance":"16 km"
+   },
+   {
+      "name":"Be’er Barqit",
+      "distance":"16 km"
+   },
+   {
+      "name":"Be’er H̱aruvit",
+      "distance":"18 km"
+   },
+   {
+      "name":"Gan Le’ummi Tel Ẕafit",
+      "distance":"19 km"
+   },
+   {
+      "name":"Me’arat Zikhri",
+      "distance":"22 km"
+   },
+   {
+      "name":"Me’arot Resen",
+      "distance":"23 km"
+   },
+   {
+      "name":"Be’er Duban",
+      "distance":"23 km"
+   },
+   {
+      "name":"Naẖal Beriyir",
+      "distance":"21 km"
+   },
+   {
+      "name":"Be’er Gal",
+      "distance":"22 km"
+   },
+   {
+      "name":"Parq Lakhish",
+      "distance":"7.8 km"
+   },
+   {
+      "name":"Gesher ‘Ad Halom",
+      "distance":"3.6 km"
+   },
+   {
+      "name":"Ya‘ar Ashdod",
+      "distance":"2.1 km"
+   },
+   {
+      "name":"Berekhat Roberts",
+      "distance":"1.6 km"
+   },
+   {
+      "name":"Ẕomet Tel Ashdod",
+      "distance":"504 m"
+   },
+   {
+      "name":"Ya‘ar H̱aruvit",
+      "distance":"19 km"
+   },
+   {
+      "name":"Be’er HaRif",
+      "distance":"13 km"
+   },
+   {
+      "name":"Ya‘ar Be’er Toviyya",
+      "distance":"4.2 km"
+   },
+   {
+      "name":"Ya‘ar Niẕẕanim",
+      "distance":"4.5 km"
+   },
+   {
+      "name":"Berekhot Niẕẕanim",
+      "distance":"5.5 km"
+   },
+   {
+      "name":"Shemurat H̱olot Niẕẕanim",
+      "distance":"6.8 km"
+   },
+   {
+      "name":"Shemurat Yam Evtaẖ",
+      "distance":"8.2 km"
+   },
+   {
+      "name":"Ẕomet Tuviya",
+      "distance":"8.1 km"
+   },
+   {
+      "name":"Be’er Ẕafit",
+      "distance":"20 km"
+   },
+   {
+      "name":"Be’er H̱oẖan",
+      "distance":"19 km"
+   },
+   {
+      "name":"Shemurat Ẕafit",
+      "distance":"17 km"
+   },
+   {
+      "name":"Ya‘ar Ẕafit",
+      "distance":"19 km"
+   },
+   {
+      "name":"Me‘arat Ba‘alan",
+      "distance":"20 km"
+   },
+   {
+      "name":"Giv‘at Tom WeTomer",
+      "distance":"9.0 km"
+   },
+   {
+      "name":"Ya‘ar Karmon",
+      "distance":"11 km"
+   },
+   {
+      "name":"Ya’ar H̱olot Ashqelon",
+      "distance":"17 km"
+   },
+   {
+      "name":"Holiday Inn",
+      "distance":"12 km"
+   },
+   {
+      "name":"Leonardo Ashkelon",
+      "distance":"13 km"
+   },
+   {
+      "name":"Holiday Inn Ashkelon Hotel",
+      "distance":"14 km"
+   },
+   {
+      "name":"West Boutique Ashdod",
+      "distance":"7.2 km"
+   },
+   {
+      "name":"Leonardo Boutique Hotel Rehovot",
+      "distance":"23 km"
+   },
+   {
+      "name":"H̱orbat Bet Far",
+      "distance":"25 km"
+   },
+   {
+      "name":"Naẖal Peli",
+      "distance":"25 km"
+   },
+   {
+      "name":"H̱orbat Pered",
+      "distance":"22 km"
+   },
+   {
+      "name":"Ya‘ar Yish‘i",
+      "distance":"25 km"
+   },
+   {
+      "name":"H̱orbat Borer",
+      "distance":"25 km"
+   },
+   {
+      "name":"H̱orbat ‘Amra",
+      "distance":"24 km"
+   },
+   {
+      "name":"Be’er Timna",
+      "distance":"24 km"
+   },
+   {
+      "name":"Be’er Mikha",
+      "distance":"25 km"
+   },
+   {
+      "name":"H̱orbat Immer",
+      "distance":"23 km"
+   },
+   {
+      "name":"Be’er Ela",
+      "distance":"22 km"
+   },
+   {
+      "name":"Be’er Massu’a",
+      "distance":"25 km"
+   },
+   {
+      "name":"H̱orbat Sa‘od",
+      "distance":"23 km"
+   },
+   {
+      "name":"H̱orbat Ẕifyon",
+      "distance":"25 km"
+   },
+   {
+      "name":"Me‘arot Saggafim",
+      "distance":"25 km"
+   },
+   {
+      "name":"Me‘arot Pa‘amon",
+      "distance":"25 km"
+   },
+   {
+      "name":"Tulip Inn Golden Walls Hotel",
+      "distance":"22 km"
+   },
+   {
+      "name":"Olive Tree Hotel",
+      "distance":"22 km"
+   },
+   {
+      "name":"Inbal Jerusalem Hotel",
+      "distance":"22 km"
+   },
+   {
+      "name":"Crowne Plaza Jerusalem Hotel",
+      "distance":"22 km"
+   },
+   {
+      "name":"C Hotel Neve Ilan",
+      "distance":"22 km"
+   },
+   {
+      "name":"Gardenia Nazareth Hotel",
+      "distance":"22 km"
+   },
+   {
+      "name":"Mount Of Olives Hotel",
+      "distance":"22 km"
+   },
+   {
+      "name":"Ẕomet Bet Rabban",
+      "distance":"10.0 km"
+   },
+   {
+      "name":"Tel Na‘na‘",
+      "distance":"24 km"
+   },
+   {
+      "name":"Be’er Yesodot",
+      "distance":"20 km"
+   },
+   {
+      "name":"Naẖal H̱ulda",
+      "distance":"20 km"
+   },
+   {
+      "name":"Gan Le’ummi Giv‘at Merar",
+      "distance":"15 km"
+   },
+   {
+      "name":"Meẖlaf Soreq",
+      "distance":"17 km"
+   },
+   {
+      "name":"Gan Le’ummi Naẖal Rubin",
+      "distance":"22 km"
+   },
+   {
+      "name":"Shemurat Biẕẕat HaShoreq",
+      "distance":"23 km"
+   },
+   {
+      "name":"Shemurat Giv‘at HaTor",
+      "distance":"25 km"
+   },
+   {
+      "name":"Gan Le’ummi H̱of Palmaẖim",
+      "distance":"20 km"
+   },
+   {
+      "name":"H̱of Palmaẖim",
+      "distance":"21 km"
+   },
+   {
+      "name":"Gan Le’ummi Naẖal Soreq",
+      "distance":"21 km"
+   },
+   {
+      "name":"Gan Le’ummi Kurkar Nes Ẕiyyona",
+      "distance":"23 km"
+   },
+   {
+      "name":"Shemurat Shitta Malbina Yashresh",
+      "distance":"25 km"
+   },
+   {
+      "name":"Shemurat H̱olot Palmaẖim",
+      "distance":"20 km"
+   },
+   {
+      "name":"Taẖanat Yavné",
+      "distance":"15 km"
+   },
+   {
+      "name":"Shemurat Berekhat Reẖovot",
+      "distance":"25 km"
+   },
+   {
+      "name":"H̱awwat Miryam",
+      "distance":"14 km"
+   },
+   {
+      "name":"Ya‘ar Pelugot",
+      "distance":"16 km"
+   },
+   {
+      "name":"Maẕẕevet Zikkaron Gedud 52",
+      "distance":"16 km"
+   },
+   {
+      "name":"Maẕẕevet Zikkaron Gedud 54",
+      "distance":"15 km"
+   },
+   {
+      "name":"Naẖal Gevar‘am",
+      "distance":"17 km"
+   },
+   {
+      "name":"Ya‘ar Yad Mordekhay",
+      "distance":"19 km"
+   },
+   {
+      "name":"Shemurat H̱olot Mavqi‘im",
+      "distance":"18 km"
+   },
+   {
+      "name":"Shemurat H̱olot Ziqim",
+      "distance":"18 km"
+   },
+   {
+      "name":"Shemurat Yam Shiqma",
+      "distance":"22 km"
+   },
+   {
+      "name":"H̱of Ziqim",
+      "distance":"22 km"
+   },
+   {
+      "name":"Shemurat H̱olot Netiv Ha‘Asara",
+      "distance":"23 km"
+   },
+   {
+      "name":"Taẖanat Qiryat Gat",
+      "distance":"20 km"
+   },
+   {
+      "name":"Ya‘ar Gevar‘am",
+      "distance":"19 km"
+   },
+   {
+      "name":"Naẖal Shumshum",
+      "distance":"21 km"
+   },
+   {
+      "name":"Ya‘ar Erez",
+      "distance":"22 km"
+   },
+   {
+      "name":"Ẕomet H̱eleẕ",
+      "distance":"21 km"
+   },
+   {
+      "name":"Bezeq",
+      "distance":"6.9 km"
+   },
+   {
+      "name":"Bet Ha‘Iriyya",
+      "distance":"5.5 km"
+   },
+   {
+      "name":"Bet Mishpat HaShalom",
+      "distance":"6.2 km"
+   },
+   {
+      "name":"Do’ar Merkazi",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"HaH̱evera LeHaganat HaTev‘a",
+      "distance":"5.8 km"
+   },
+   {
+      "name":"HaMo‘aẕa HaDatit",
+      "distance":"6.3 km"
+   },
+   {
+      "name":"Misrad HaPanim",
+      "distance":"6.8 km"
+   },
+   {
+      "name":"Misrad HaRishuy",
+      "distance":"7.3 km"
+   },
+   {
+      "name":"Taẖanat Mishtara",
+      "distance":"5.7 km"
+   },
+   {
+      "name":"Taẖana Magen Dawid Adom",
+      "distance":"6.2 km"
+   },
+   {
+      "name":"Taẖanat Otobusim Merkazit Egged",
+      "distance":"6.8 km"
+   },
+   {
+      "name":"Bet HaAvot",
+      "distance":"5.7 km"
+   },
+   {
+      "name":"HaShirut HaPsikologi",
+      "distance":"6.8 km"
+   },
+   {
+      "name":"Mirpa’a Merkazit Qupat H̱olim Klalit",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"Taẖana LeBri’ut HaMishpaẖa Rova‘ Alef",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"Hostel Rova‘ Alef",
+      "distance":"6.6 km"
+   },
+   {
+      "name":"Bet Ha‘Almin",
+      "distance":"5.9 km"
+   },
+   {
+      "name":"H̱awwa LeH̱inuk H̱aqla’i",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"Merkaz No‘ar Klali",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"Bet Sefer ‘Amal",
+      "distance":"7.0 km"
+   },
+   {
+      "name":"Mikhlala LeMinhal",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"Bet Sefer Tikhon Maqif Bet",
+      "distance":"6.3 km"
+   },
+   {
+      "name":"Bet Sefer Yami Ort",
+      "distance":"7.6 km"
+   },
+   {
+      "name":"Migdalor",
+      "distance":"7.4 km"
+   },
+   {
+      "name":"Giv‘at Yona",
+      "distance":"7.4 km"
+   },
+   {
+      "name":"Mo‘adon Yami",
+      "distance":"7.6 km"
+   },
+   {
+      "name":"H̱of Raẖaẕa Me ‘Ami",
+      "distance":"7.5 km"
+   },
+   {
+      "name":"Merkaz Qlita Shalom (Hostel)",
+      "distance":"7.4 km"
+   },
+   {
+      "name":"Mo‘adon Qadima Le‘Ole Romania",
+      "distance":"7.2 km"
+   },
+   {
+      "name":"Merkaz Qehilati Aẖawwa Rova‘ Alef",
+      "distance":"7.1 km"
+   },
+   {
+      "name":"Merkaz Qlita Bet Canada",
+      "distance":"6.9 km"
+   },
+   {
+      "name":"Andarta LeH̱alale H̱ayal HaYam",
+      "distance":"7.1 km"
+   },
+   {
+      "name":"Iẕtadion ‘Ironi Al Shem HaYod-Alef",
+      "distance":"7.0 km"
+   },
+   {
+      "name":"Taẖana LeBri’ut HaNefesh",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"HaSifriya Ha‘Ironit",
+      "distance":"6.5 km"
+   },
+   {
+      "name":"Taẖana LeBri’ut HaMishpaẖa Rova‘ Bet",
+      "distance":"6.3 km"
+   },
+   {
+      "name":"Bet Sefer Tikhon Maqif Alef",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"Iẕtadion ‘Ironi Rova‘ Bet",
+      "distance":"6.1 km"
+   },
+   {
+      "name":"Merkaz Misẖari Rova‘ Alef",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"Shuq ‘Ironi Rova‘ Bet",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"Merkaz Misẖari Rova‘ Bet",
+      "distance":"6.3 km"
+   },
+   {
+      "name":"Merkaz Qehilati Tiqwwatanu Rova‘ Bet",
+      "distance":"6.6 km"
+   },
+   {
+      "name":"Bet No‘ar Rova‘ Gimel",
+      "distance":"6.0 km"
+   },
+   {
+      "name":"Taẖana LeBri’ut HaMishpaẖa Rova‘ Gimel",
+      "distance":"6.0 km"
+   },
+   {
+      "name":"Merkaz Misẖari Rova‘ Gimel",
+      "distance":"5.8 km"
+   },
+   {
+      "name":"Merkaz Qehilati Newé Yonatan Rova‘ Gimel",
+      "distance":"5.8 km"
+   },
+   {
+      "name":"Hostel Rova‘ Gimel",
+      "distance":"5.5 km"
+   },
+   {
+      "name":"Rova‘ Gimel",
+      "distance":"5.9 km"
+   },
+   {
+      "name":"Rova‘ Zayin",
+      "distance":"4.7 km"
+   },
+   {
+      "name":"Bet HaẔofim Rova‘ Waw",
+      "distance":"5.1 km"
+   },
+   {
+      "name":"Bet Ha‘Ole",
+      "distance":"5.0 km"
+   },
+   {
+      "name":"Taẖana LeBri’ut HaMishpaẖa Rova‘ Waw",
+      "distance":"5.0 km"
+   },
+   {
+      "name":"Merkaz Misẖari Rova‘ Waw",
+      "distance":"5.1 km"
+   },
+   {
+      "name":"Bet Sefer Miftan Hermon",
+      "distance":"5.5 km"
+   },
+   {
+      "name":"Merkaz Qehilati Bet Lavron Rova‘ Waw",
+      "distance":"5.2 km"
+   },
+   {
+      "name":"Rova‘ Waw",
+      "distance":"5.0 km"
+   },
+   {
+      "name":"Qanyon Lev Ha‘Ir",
+      "distance":"5.6 km"
+   },
+   {
+      "name":"Merkaz Qehilati Rova‘ Hé",
+      "distance":"5.8 km"
+   },
+   {
+      "name":"Rova‘ Hé",
+      "distance":"5.7 km"
+   },
+   {
+      "name":"Mirpa’a Merkazit Qupat H̱olim Le’umit",
+      "distance":"6.0 km"
+   },
+   {
+      "name":"HaMerkaz HaPedagogi",
+      "distance":"5.9 km"
+   },
+   {
+      "name":"Bet Sefer Tikhon Maqif Dalet",
+      "distance":"5.7 km"
+   },
+   {
+      "name":"Taẖana LeBri’ut HaMishpaẖa Rova‘ Dalet",
+      "distance":"6.1 km"
+   },
+   {
+      "name":"Merkaz Qehilati ‘Uziel Rova‘ Alef",
+      "distance":"6.3 km"
+   },
+   {
+      "name":"Merkaz Misẖari Rova‘ Dalet",
+      "distance":"6.1 km"
+   },
+   {
+      "name":"Rova‘ Dalet",
+      "distance":"6.2 km"
+   },
+   {
+      "name":"Mirpa’a Merkazit Qupat H̱olim Me’uẖedet",
+      "distance":"6.2 km"
+   },
+   {
+      "name":"HaShuq HaPitoaẖ",
+      "distance":"7.0 km"
+   },
+   {
+      "name":"H̱of Raẖaẕa Lido",
+      "distance":"7.1 km"
+   },
+   {
+      "name":"H̱of Raẖaẕa Oranim",
+      "distance":"6.9 km"
+   },
+   {
+      "name":"Merkaz Qlita Pladot",
+      "distance":"4.5 km"
+   },
+   {
+      "name":"Bet Sefer Tikhon Maqif Hé",
+      "distance":"4.6 km"
+   },
+   {
+      "name":"Merkaz Qehilati H̱et Yod Rova‘ H̱et",
+      "distance":"4.5 km"
+   },
+   {
+      "name":"Rova‘ H̱et",
+      "distance":"4.4 km"
+   },
+   {
+      "name":"Taẖana LeBri’ut HaMishpaẖa Rova‘ H̱et",
+      "distance":"4.5 km"
+   },
+   {
+      "name":"Rova‘ Tet",
+      "distance":"3.9 km"
+   },
+   {
+      "name":"Rova‘ HaQirya",
+      "distance":"5.1 km"
+   },
+   {
+      "name":"Taẖana LeBri’ut HaMishpaẖa Rova‘ Hé",
+      "distance":"5.7 km"
+   },
+   {
+      "name":"HaQonservatorion Ha‘Ironi Aqadma",
+      "distance":"5.8 km"
+   },
+   {
+      "name":"Merkaz Qehilati Rova‘ Dalet",
+      "distance":"6.0 km"
+   },
+   {
+      "name":"Muze’on LeTarbut HaPelishtim ‘Al Shem Corinne Mamane",
+      "distance":"6.0 km"
+   },
+   {
+      "name":"Bet Sefer Tikhon Maqif Gimel",
+      "distance":"5.9 km"
+   },
+   {
+      "name":"Andarta LeH̱alale Struma",
+      "distance":"6.3 km"
+   },
+   {
+      "name":"H̱of Qeshetot",
+      "distance":"6.5 km"
+   },
+   {
+      "name":"Ma‘aganat Ashdod",
+      "distance":"6.3 km"
+   },
+   {
+      "name":"Yad LeBenim WeBet HaH̱iyal",
+      "distance":"5.5 km"
+   },
+   {
+      "name":"Merkaz Misẖari Rova‘ Yod",
+      "distance":"3.9 km"
+   },
+   {
+      "name":"Merkaz Misẖari Rova‘ Yod Gimel",
+      "distance":"3.6 km"
+   },
+   {
+      "name":"Rova‘ Yod Gimel",
+      "distance":"3.7 km"
+   },
+   {
+      "name":"Bet Sefer Tikhon Maqif Waw",
+      "distance":"4.8 km"
+   },
+   {
+      "name":"Rova‘ Yod Alef",
+      "distance":"5.0 km"
+   },
+   {
+      "name":"Merkaz Misẖari Rova‘ Yod Alef",
+      "distance":"5.2 km"
+   },
+   {
+      "name":"Taẖana LeBri’ut HaMishpaẖa Rova‘ Yod Alef",
+      "distance":"5.1 km"
+   },
+   {
+      "name":"Mo‘adon Kafri Ashdod",
+      "distance":"5.5 km"
+   },
+   {
+      "name":"Meẕudat Ashdod Yam",
+      "distance":"5.5 km"
+   },
+   {
+      "name":"Rova‘ Tet Waw",
+      "distance":"4.6 km"
+   },
+   {
+      "name":"Bet Cantor",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"Bet Ha‘Iwwer",
+      "distance":"6.9 km"
+   },
+   {
+      "name":"HaMitwwaẖ Ha‘Ironi WeMo‘adon Gedudi Noa‘r ‘Ivri",
+      "distance":"6.6 km"
+   },
+   {
+      "name":"Bet Lazarus",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"Bet Maccabi",
+      "distance":"7.4 km"
+   },
+   {
+      "name":"Rova‘ Yod",
+      "distance":"3.9 km"
+   },
+   {
+      "name":"Bet WIZO",
+      "distance":"7.3 km"
+   },
+   {
+      "name":"Bet Yoredi HaYam HaSqandenavi",
+      "distance":"7.4 km"
+   },
+   {
+      "name":"Bet Amani Ashdod",
+      "distance":"7.3 km"
+   },
+   {
+      "name":"Rova‘ Alef",
+      "distance":"7.2 km"
+   },
+   {
+      "name":"Gan Elisheva‘",
+      "distance":"7.1 km"
+   },
+   {
+      "name":"Rova‘ Bet",
+      "distance":"6.6 km"
+   },
+   {
+      "name":"Mirpa’a Merkazit Qupat H̱olim Maccabi",
+      "distance":"6.1 km"
+   },
+   {
+      "name":"Parq Alon",
+      "distance":"5.4 km"
+   },
+   {
+      "name":"Parq Ben Guriyyon",
+      "distance":"6.0 km"
+   },
+   {
+      "name":"Merkaz Qehilati Rova‘ Yod Gimel",
+      "distance":"5.6 km"
+   },
+   {
+      "name":"Andarta LeH̱alale Taw Shin H̱et",
+      "distance":"5.7 km"
+   },
+   {
+      "name":"Gan Newe Yehonatan",
+      "distance":"5.9 km"
+   },
+   {
+      "name":"Gan Bordo",
+      "distance":"6.3 km"
+   },
+   {
+      "name":"Gan ‘Amos",
+      "distance":"6.8 km"
+   },
+   {
+      "name":"Gan HaRishonim",
+      "distance":"6.6 km"
+   },
+   {
+      "name":"Gan Shevi Ẕiyyon",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"Gan Avraham Ẕigel",
+      "distance":"5.9 km"
+   },
+   {
+      "name":"Gan Elat",
+      "distance":"6.5 km"
+   },
+   {
+      "name":"Gan HaLoẖemim",
+      "distance":"6.6 km"
+   },
+   {
+      "name":"Parq ‘Ad Halom",
+      "distance":"3.7 km"
+   },
+   {
+      "name":"Gan HaPesalim",
+      "distance":"5.1 km"
+   },
+   {
+      "name":"Parq HaShita HaMalebina",
+      "distance":"5.2 km"
+   },
+   {
+      "name":"Mo‘eẕet HaPo‘elim",
+      "distance":"6.8 km"
+   },
+   {
+      "name":"Mas Hakhnasa",
+      "distance":"4.9 km"
+   },
+   {
+      "name":"Shirut HaTa‘asuqa",
+      "distance":"4.9 km"
+   },
+   {
+      "name":"Bet Sefer Tikhon Maqif Tet",
+      "distance":"4.5 km"
+   },
+   {
+      "name":"Bet Sefer Tikhon Maqif Zayin",
+      "distance":"5.0 km"
+   },
+   {
+      "name":"Bet Sefer Tikhon Maqif H̱et",
+      "distance":"3.9 km"
+   },
+   {
+      "name":"Merkaz LeMada‘im",
+      "distance":"6.4 km"
+   },
+   {
+      "name":"HaMerkaz LeHaskalat Mevugarim",
+      "distance":"4.9 km"
+   },
+   {
+      "name":"Merkaz Qehilati Rova‘ Tet",
+      "distance":"3.6 km"
+   },
+   {
+      "name":"HaMerkaz LeShirut Mashma‘uti",
+      "distance":"6.2 km"
+   },
+   {
+      "name":"Taẖanat Otobusim Merkazit Egged",
+      "distance":"5.3 km"
+   },
+   {
+      "name":"H̱of Raẖaẕa Rova‘ Yod Alef",
+      "distance":"5.8 km"
+   },
+   {
+      "name":"Bet Hadar",
+      "distance":"7.3 km"
+   },
+   {
+      "name":"Yad Ha‘pala MeMaroqo",
+      "distance":"4.9 km"
+   },
+   {
+      "name":"Migdal HaMidraẖof",
+      "distance":"7.1 km"
+   },
+   {
+      "name":"Muze’on Ashdod LeOmanut",
+      "distance":"5.4 km"
+   },
+   {
+      "name":"Qanyon HaCity",
+      "distance":"5.2 km"
+   },
+   {
+      "name":"HaMishkan LeOmanuyot HaBama HaPayis Ashdod",
+      "distance":"5.6 km"
+   },
+   {
+      "name":"Merkaz Pedagogi Ashdod",
+      "distance":"5.6 km"
+   },
+   {
+      "name":"Gan Ha‘Ir",
+      "distance":"5.4 km"
+   },
+   {
+      "name":"Bet H̱olim Assuta",
+      "distance":"3.5 km"
+   },
+   {
+      "name":"Parq Ashdod Yam",
+      "distance":"6.1 km"
+   },
+   {
+      "name":"Ampi Ashdod",
+      "distance":"6.2 km"
+   },
+   {
+      "name":"Berekha ‘Ironit",
+      "distance":"6.3 km"
+   },
+   {
+      "name":"Gan ‘Al Shem Safra",
+      "distance":"4.3 km"
+   },
+   {
+      "name":"H̱of Be’er Sheva‘",
+      "distance":"5.4 km"
+   },
+   {
+      "name":"Gan ‘Al Shem HaMelekh Ḥassan HaSheni Melekh Maroqo",
+      "distance":"5.0 km"
+   },
+   {
+      "name":"Gan ‘Al Shem Rafi Wa‘knin",
+      "distance":"4.5 km"
+   },
+   {
+      "name":"HaMeẕadit",
+      "distance":"4.7 km"
+   },
+   {
+      "name":"Parq ‘Al Shem Golda",
+      "distance":"5.1 km"
+   },
+   {
+      "name":"H̱of Nifrad",
+      "distance":"5.9 km"
+   },
+   {
+      "name":"Kikar ‘Al Shem Yehudi Saloniki",
+      "distance":"5.7 km"
+   },
+   {
+      "name":"Ofek",
+      "distance":"4.5 km"
+   },
+   {
+      "name":"Orot",
+      "distance":"3.9 km"
+   },
+   {
+      "name":"Ẕafririm",
+      "distance":"5.2 km"
+   },
+   {
+      "name":"H̱ofit",
+      "distance":"5.0 km"
+   },
+   {
+      "name":"HaRo‘e",
+      "distance":"4.9 km"
+   },
+   {
+      "name":"Shaked",
+      "distance":"4.1 km"
+   },
+   {
+      "name":"Retamim",
+      "distance":"3.5 km"
+   },
+   {
+      "name":"Amirim",
+      "distance":"3.7 km"
+   },
+   {
+      "name":"Alonim",
+      "distance":"4.0 km"
+   },
+   {
+      "name":"Devir",
+      "distance":"3.8 km"
+   },
+   {
+      "name":"Eshkol",
+      "distance":"3.8 km"
+   },
+   {
+      "name":"Ulpana",
+      "distance":"3.7 km"
+   },
+   {
+      "name":"Ma‘ala",
+      "distance":"4.2 km"
+   },
+   {
+      "name":"Ne’ot Ester",
+      "distance":"4.6 km"
+   },
+   {
+      "name":"Naẖalat Meir",
+      "distance":"4.6 km"
+   },
+   {
+      "name":"Har’el",
+      "distance":"5.1 km"
+   },
+   {
+      "name":"Yad Shabtay",
+      "distance":"5.1 km"
+   },
+   {
+      "name":"Shiqmim",
+      "distance":"5.2 km"
+   },
+   {
+      "name":"Shilo",
+      "distance":"4.7 km"
+   },
+   {
+      "name":"Ẕemaẖ Alef",
+      "distance":"4.6 km"
+   },
+   {
+      "name":"No‘am",
+      "distance":"4.4 km"
+   },
+   {
+      "name":"Assuta",
+      "distance":"4.1 km"
+   },
+   {
+      "name":"HaYovel",
+      "distance":"5.2 km"
+   },
+   {
+      "name":"HaQirya",
+      "distance":"4.9 km"
+   },
+   {
+      "name":"Merkaz Pais Qehilati",
+      "distance":"5.4 km"
+   },
+   {
+      "name":"Bet Malka",
+      "distance":"5.6 km"
+   },
+   {
+      "name":"Ma‘alot",
+      "distance":"5.5 km"
+   },
+   {
+      "name":"‘Alumim",
+      "distance":"5.8 km"
+   },
+   {
+      "name":"Ge’ulim",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"Aẖdut",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"Re‘im",
+      "distance":"6.2 km"
+   },
+   {
+      "name":"Bat Melekh",
+      "distance":"6.7 km"
+   },
+   {
+      "name":"Ilanot",
+      "distance":"7.3 km"
+   }
+]
