@@ -11,6 +11,12 @@ const ariel = require('./places/ariel.json');
 const rabbies = require('./places/rabbies.json');
 const towns = require('./places/townsRes.json');
 
+/* Global exceptions handler */
+process.on('uncaughtException', (err) => {
+  console.log('whoops! there was an error');
+  console.log(err);
+});
+
 const getSchoolsData = ($) => {
   res = {};
   let grade = $("#mdlnEducationInsights > div.schoolComBoxCont > div.schoolComBox:first-child > div.schoolComGrade:not(span)").text();
@@ -26,18 +32,23 @@ const checkSchools = ($) => {
   let religious = "דתי";
   let elementry = "יסודי";
   let res = {
-    "ממ'ד יסודי": "אין"
+    "ממד יסודי": "אין"
   };
   let bestSchool = 0;
   let hasSchool = $(".bodyTableCont tbody tr").each(function() {
     let type = $(":nth-child(4)", this).text().trim();
-    let ages = $(":nth-child(3)", this).text().trim();    
+    let ages = $(":nth-child(3)", this).text().trim();
     if ((type.indexOf(religious) > -1) && (ages.indexOf(elementry) > -1)) {
-      let rate = $(":nth-child(1) ", this).text().trim().substring(0,2);
+      let rate = 0;
+      try {
+        rate = $(":nth-child(1) ", this).text().trim().substring(0,2);
+      } catch (ex) {
+        rate = 0;
+      }
       rate = parseInt(rate, 10);
       if (rate > bestSchool) {
         let name = $(":nth-child(2)", this).text().trim();
-        res["ממ'ד יסודי"] = name;
+        res["ממד יסודי"] = name;
         res["דירוג בית ספר"] = rate;
       }
     }
@@ -76,46 +87,53 @@ const getPricePerMeter = ($) => {
 };
 
 var scrapTownHTML = async (town) => {
+  let res = {};
   const browser = await puppeteer.launch({
     headless: false,
     slowMo: 1000 // slow down by 500ms
   });
-  const page = await browser.newPage();
-  await page.setJavaScriptEnabled(true);
-  await page.goto('https://www.madlan.co.il/local/' + town + '?source=source_search',
-                  {waitUntil: 'networkidle2'});
+  try {
+    const page = await browser.newPage();
+    await page.setJavaScriptEnabled(true);
+    await page.goto('https://www.madlan.co.il/local/' + town + '?source=source_search',
+                    {waitUntil: 'networkidle2'});
 
-  await page.waitFor(4000);
-  let htmlRes = await page.evaluate(() => {
-    let retVal = '';
-    if (document.doctype)
-      retVal = new XMLSerializer().serializeToString(document.doctype);
-    if (document.documentElement)
-      retVal += document.documentElement.outerHTML;
-    return retVal;
-  });
-  
-  let $ = cheerio.load(htmlRes); // Load HTML Data
-  let res = getSchoolsData($);
-  res = {
-    ...res,
-    ...getPricePerMeter($),
-    ...getProsCons($)
-  };
+    await page.waitFor(4000);
+    let htmlRes = await page.evaluate(() => {
+      let retVal = '';
+      if (document.doctype)
+        retVal = new XMLSerializer().serializeToString(document.doctype);
+      if (document.documentElement)
+        retVal += document.documentElement.outerHTML;
+      return retVal;
+    });
+    
+    let $ = cheerio.load(htmlRes); // Load HTML Data
+    res = getSchoolsData($);
+    res = {
+      ...res,
+      ...getPricePerMeter($),
+      ...getProsCons($)
+    };
 
-  await page.goto('https://www.madlan.co.il/education/' + town, {waitUntil: 'networkidle2'});
-  
-  htmlRes = await page.evaluate(() => {
-    return document.documentElement.innerHTML;
-  });
-  
-  $ = cheerio.load(htmlRes); // Load HTML Data
-  res = {
-    ...checkSchools($),
-    ...res
-  };
+    await page.goto('https://www.madlan.co.il/education/' + town, {waitUntil: 'networkidle2'});
+    
+    htmlRes = await page.evaluate(() => {
+      return document.documentElement.innerHTML;
+    });
+    
+    $ = cheerio.load(htmlRes); // Load HTML Data
+    res = {
+      ...checkSchools($),
+      ...res
+    };
 
-  await browser.close();
+    await browser.close();
+  } catch(ex) {
+    console.log(town + " Failed");
+    console.log(ex);
+    await browser.close();
+  }
   return res;
 };
 
@@ -227,31 +245,43 @@ var getTownData = async (town) => {
   };
   return res;
 };
-//let checkTowns = ['אשקלון', 'תל אביב', 'פתח תקווה', 'השרון', 'באר שבע'];
-let checkTowns = ['טול כרם'];
+
+let checkTowns = ["טול כרם", "רמלה", 'אשקלון', 'תל אביב', 'פתח תקווה', 'השרון'];
+
+
+const chunks = (chunksArray, chunkSize) => {
+  let array = _.filter(chunksArray, (town) => {
+    return _.find(checkTowns, function(t) { return (town.around.indexOf(t) > -1);});
+  });
+  return [].concat.apply([],
+      array.map(function(elem,i) {
+          return i%chunkSize ? [] : [array.slice(i,i+chunkSize)];
+      })
+  );
+}
 
 let totalRes = [];
-async.eachSeries(towns, (town, cb) => {
-  let around = _.find(checkTowns, function(t) { return (town.around.indexOf(t) > -1);});
-  if (!around) {
-    return cb();
-  }
-  getTownData(town.name.trim()).then((res) => {
-    res =  {
-      ...res,
-      "שם ישוב": town.name,
-      "לווין": town.around,
-      "ילדים עד גיל 6": town.kidsSix,
-      "ילדים בין 7 ל18": town.kidsEighteen,
-      "אנשים בין 18 ל45": town.adultsFourtyFive,
-      "אנשים מעל 45": town.adultsFourtySix,
-      "סך הכל תושבים": town.totalPeople
-    };
-    totalRes.push(res);
-    cb();
-  });
-}, function(err) {
+async.eachSeries(chunks(towns, 10), (chunk, callback) => {
+    async.each(chunk, (town, cb) => {
+      getTownData(town.name.trim()).then((res) => {
+        res =  {
+          ...res,
+          "שם ישוב": town.name,
+          "לווין": town.around,
+          "ילדים עד גיל 6": town.kidsSix,
+          "ילדים בין 7 ל18": town.kidsEighteen,
+          "אנשים בין 18 ל45": town.adultsFourtyFive,
+          "אנשים מעל 45": town.adultsFourtySix,
+          "סך הכל תושבים": town.totalPeople
+        };
+        totalRes.push(res);
+        cb();
+      });
+    }, (err) => {
+      callback();
+    })
+  }, (err) => {
   if (!err) {
     fs.writeFileSync("choosenTowns.json", JSON.stringify(totalRes));
   }
-});  
+});
