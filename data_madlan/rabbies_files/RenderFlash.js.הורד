@@ -1,0 +1,35 @@
+function RenderFlash(src,width,height)
+{
+	var Flashscript = '';
+	Flashscript += '<OBJECT id="FlashNavigation"  codeBase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"';
+	Flashscript += 'height="'+ height +'" width="'+ width +'" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" VIEWASTEXT> ';
+	Flashscript += '<PARAM NAME="_cx" VALUE="20003"> ';
+	Flashscript += '<PARAM NAME="_cy" VALUE="7011"> ';
+	Flashscript += '<PARAM NAME=FlashVars VALUE="currentLanguage=en-US&currentSection=homepage"> ';
+	Flashscript += '<PARAM NAME="Movie" VALUE="'+ src +'"> ';
+	Flashscript += '<PARAM NAME="Src" VALUE="'+ src +'"> ';
+	Flashscript += '<PARAM NAME="WMode" VALUE="Transparent"> ';
+	Flashscript += '<PARAM NAME="Play" VALUE="-1"> ';
+	Flashscript += '<PARAM NAME="Loop" VALUE="-1"> ';
+	Flashscript += '<PARAM NAME="Quality" VALUE="High"> ';
+	Flashscript += '<PARAM NAME="SAlign" VALUE=""> ';
+	Flashscript += '<PARAM NAME="Menu" VALUE="-1"> ';
+	Flashscript += '<PARAM NAME="Base" VALUE=""> ';
+	Flashscript += '<PARAM NAME="AllowScriptAccess" VALUE=""> ';
+	Flashscript += '<PARAM NAME="Scale" VALUE="ShowAll"> ';
+	Flashscript += '<PARAM NAME="DeviceFont" VALUE="0"> ';
+	Flashscript += '<PARAM NAME="EmbedMovie" VALUE="0"> ';
+	Flashscript += '<PARAM NAME="BGColor" VALUE="FFFFFF"> ';
+	Flashscript += '<PARAM NAME="SWRemote" VALUE=""> ';
+	Flashscript += '<PARAM NAME="MovieData" VALUE=""> ';
+	Flashscript += '<PARAM NAME="SeamlessTabbing" VALUE="1"> ';
+	Flashscript += '<PARAM NAME="Profile" VALUE="0"> ';
+	Flashscript += '<PARAM NAME="ProfileAddress" VALUE=""> ';
+	Flashscript += '<PARAM NAME="ProfilePort" VALUE="0"> ';
+	Flashscript += '<EMBED name="FlashNavigation" swliveconnect="true" src="'+ src +'" wmode="transparent" quality="high" bgcolor="#FFFFFF" ';
+	Flashscript += 'WIDTH="'+ width +'" HEIGHT="'+ height +'" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"';
+	Flashscript += 'FlashVars="currentLanguage=en-US&currentSection=homepage"> </EMBED> ';
+	Flashscript += '</OBJECT>'
+
+document.write(Flashscript);
+}

@@ -1,0 +1,130 @@
+P
+{
+}
+H1
+{
+}
+H2
+{
+}
+H3
+{
+	color:navy;
+}
+BODY
+{
+    FONT-FAMILY: Arial
+}
+.search_field
+{
+    FONT-WEIGHT: bold
+}
+.small_field
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px
+}
+.but
+{
+    WIDTH: 90px;
+    FONT-FAMILY: Arial
+}
+.small_input
+{
+    FONT-SIZE: 12px;
+    WIDTH: 65px;
+    FONT-FAMILY: Arial
+}
+.MenuLink
+{
+    COLOR: #ffffff;
+    TEXT-DECORATION: none
+}
+.MenuLink:link
+{
+    COLOR: #ffffff;
+    TEXT-DECORATION: none
+}
+.MenuLink:hover
+{
+    COLOR: red;
+    TEXT-DECORATION: underline
+}
+.Title
+{
+    FONT-SIZE: 9pt
+}
+
+.title_big
+{
+    FONT-SIZE: 18px;
+	color:navy;
+	font-weight:boldl;
+}
+
+.val
+{
+    border:1px solid navy; FONT-SIZE: 9pt;
+    WIDTH: 170px;
+    HEIGHT:22px;
+    FONT-FAMILY: arial;
+    BACKGROUND-COLOR: #f0f0f0;
+}
+.val_thin
+{
+    border:1px solid navy; FONT-SIZE: 9pt;
+    WIDTH: 150px;
+    HEIGHT:22px;
+    FONT-FAMILY: arial;
+    BACKGROUND-COLOR: #f0f0f0;
+}
+.Button
+{
+    border:1px solid navy; 
+    WIDTH: 100px;
+    HEIGHT:25px;
+    FONT-FAMILY: arial;    
+    BACKGROUND-COLOR: #f0f0f0;
+    cursor: hand; 
+
+}
+
+.bigButton
+{
+    border:1px solid navy;
+    WIDTH: 200px;
+    HEIGHT:50px;
+    color:navy;
+    FONT-FAMILY: arial;  
+    FONT-SIZE: 16px;    
+    BACKGROUND-COLOR: AliceBlue;
+    cursor: hand; 	
+}
+.bCenter
+{
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: center
+}
+.NavyLink
+{
+    COLOR: navy;
+    TEXT-DECORATION: none;
+	FONT-SIZE: x-small
+}
+.NavyLink:link
+{
+    COLOR: navy;
+    TEXT-DECORATION: none;
+	FONT-SIZE: x-small
+}
+.NavyLink:hover
+{
+    COLOR: red;
+    TEXT-DECORATION: underline;
+	FONT-SIZE: x-small
+}
+#set_but
+{
+	width:120;
+	height:60;
+}
